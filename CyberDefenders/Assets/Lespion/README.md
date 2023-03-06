@@ -23,8 +23,8 @@ With all preparation done, let's answer the questions!
 Opening the zip, we found 3 files github.txt, office.jpg, and Webcam.png. In the Question Earlier it told us to open the GitHub.txt, inside the file, we can see a Github link https://github.com/EMarseille99. Q1 wants us to explore the Repositories, so I did and I found **"Login Page.js"** on the first Repository, and so we got our answer for Q1.
 
 
-**Q2. File -> Github.txt**
-**What is the plaintext password the insider added to his GitHub repositories?**
+**Q2. File -> Github.txt**<br />
+**What is the plaintext password the insider added to his GitHub repositories?**<br />
 Still on the same file, we just need to scroll down a bit to see a encoded password. We can simply decode it with [CyberChef](https://gchq.github.io/CyberChef/).
 
 
