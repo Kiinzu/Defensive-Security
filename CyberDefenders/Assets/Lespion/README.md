@@ -1,6 +1,7 @@
 ## L'espion
 
-### Category : Threat Intelligence
+### Category
+Threat Intelligence
 
 ### Tags
 OSINT, GitHub, Bloodhound
