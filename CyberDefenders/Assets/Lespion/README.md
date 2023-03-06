@@ -22,7 +22,7 @@ With all preparation done, let's answer the questions!
 
 Opening the zip, we found 3 files github.txt, office.jpg, and Webcam.png. In the Question Earlier it told us to open the GitHub.txt, inside the file, we can see a Github link https://github.com/EMarseille99. Q1 wants us to explore the Repositories, so I did and I found **"Login Page.js"** on the first Repository, and so we got our answer for Q1.
 
-<img src="./q1.png" width="460" height="300" align="center">  
+<img src="./q1.png" align="center">  
 
 **Q2. File -> Github.txt**<br />
 **What is the plaintext password the insider added to his GitHub repositories?**<br />
