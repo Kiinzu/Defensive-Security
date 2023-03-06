@@ -26,6 +26,7 @@ Opening the zip, we found 3 files github.txt, office.jpg, and Webcam.png. In the
 **Q2. File -> Github.txt**<br />
 **What is the plaintext password the insider added to his GitHub repositories?**<br />
 > PicassoBaguette99  
+
 Still on the same file, we just need to scroll down a bit to see a encoded password. We can simply decode it with [CyberChef](https://gchq.github.io/CyberChef/).
 
 
