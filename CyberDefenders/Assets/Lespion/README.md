@@ -30,6 +30,11 @@ Opening the zip, we found 3 files github.txt, office.jpg, and Webcam.png. In the
 
 Still on the same repository and file, we just need to scroll down a bit to see a encoded password. We can simply decode it with [CyberChef](https://gchq.github.io/CyberChef/).
 
+<img src="./q2-1.png" align="center">  
+
+Now we need to decode it.
+
+<img src="./q2-2.png" align="center">   
 
 **Q3. File -> Github.txt**  
 **What cryptocurrency mining tool did the insider use?**  
@@ -37,15 +42,25 @@ Still on the same repository and file, we just need to scroll down a bit to see 
 
 I just looked at other repositories, there is a Repository's description that drew my attention. **"RandomX, CryptoNight, AstroBWT, and Argon2 CPU/GPU miner"**  
 
+<img src="./q3.png" align="center">  
+
 **Q4. What university did the insider go to?**  
 > Sorbonee  
 
 For me there are 2 things that I need to find this answer, first is the GitHub name which is **"EMarseille99"**, and her job's title **"Backend programmer"**. Well, the google result gives us some sites, but the most important one is **LinkedIn** since you'd put every achievement and past education there, so I clicked it and found the answer.  
 
+<img src="./q4.png" align="center">
+
+This is her LinkedIn Profile  
+
+<img src="./q4-2.png" align="center">  
+
 **Q5. What gaming website the insider had an account on?**
 > Steam  
 
 Using a website called https://whatsmyname.app/, we can search using her Github name.  
+
+<img src="./q5.png" align="center">  
 
 We can see here, one of the results says that it has something to do with tf2items, tf2 ( Team Fortress 2 ) is a game ONLY available on steam. To verify this, I searched for the username in Steam.  
 
@@ -54,16 +69,21 @@ We can see here, one of the results says that it has something to do with tf2ite
 
 The search that we did for **Q4** also gives us an Instagram link, and that's the answer.  
 
+<img src="./q6.png" align="center">  
+
 **Q7. Where did the insider go on the holiday? (Country only)**  
 > Singapore  
 
 From her post on Instagram we can see a signature Singapore Marina Bays Sand Hotel.
+
+<img src="./q7.png" align="center">  
 
 **Q8. Where is the insider's family live? (City only)**  
 > Dubai  
 
 Two Oldest photos on her Instagram show a flag and a very tall building, the building itself gives away the answer easily.
 
+<img src="./q8.png" align="center">  
 
 **Q9. File -> office.jpg**  
 **You have been provided with a picture of the building in which the company has an office. Which city is the company located in?**  
