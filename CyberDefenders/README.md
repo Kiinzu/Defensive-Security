@@ -4,5 +4,5 @@
 
 | **Challenge** | **Category** | **Tags** | **Status** | 
 | :---:  | :---: | :---:  | :---: | 
-| [L'espion](https://github.com/AKROM-A/Defensive_Security/tree/main/CyberDefenders/Assets/Lespion) | Threat Intel | `OSINT` `Github` `Bloodhound` | :white_check_mark: |
+| [L'espion](https://github.com/AKROM-A/Defensive_Security/tree/main/CyberDefenders/Assets/Lespion) | Threat Intelligence | `OSINT` `Github` `Bloodhound` | :white_check_mark: |
 | [Bucket](./Assets/Bucket/README.md) | Digital Forensic | `AWS` `Cloud` `Log Analysis` | :x: |
